@@ -1,6 +1,6 @@
- SYMnmf Project
+## SYMnmf Project
 
-This repository implements the Symmetric Nonnegative Matrix Factorization (SymNMF) algorithm as described in the project assignment. The implementation includes both Python and C components, with bindings through the Python C API.
+This repository implements the Symmetric Nonnegative Matrix Factorization (SymNMF) algorithm as described in the project assignment, as well as compares it to KMEANS. The implementation includes both Python and C components, with bindings through the Python C API. 
 
 ## Overview
 
