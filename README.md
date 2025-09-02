@@ -13,6 +13,7 @@ Optimization loop: updating the matrix H until convergence.
 Clustering interpretation based on the factorization result .
 
 ## Repository Structure
+analysis.py — script for testing and analyzing outputs. compares performance between KMEANS and SYMNMF
 
 symnmf.py — main Python program, including high-level interface for SymNMF.
 
@@ -21,8 +22,6 @@ symnmf.c — core C implementation of the SymNMF algorithm.
 symnmf.h — header file for the C implementation.
 
 symnmfmodule.c — Python C API wrapper connecting the C code with Python.
-
-analysis.py — script for testing and analyzing outputs.
 
 setup.py — build script for compiling the C extension.
 
