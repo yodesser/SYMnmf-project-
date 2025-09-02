@@ -27,6 +27,8 @@ setup.py — build script for compiling the C extension.
 
 Makefile — provides shortcuts for compilation and running.
 
+input_example - provides an example for the input points format
+
 ## Build and Run
 
 1. Compile the C extension:
